@@ -16,3 +16,4 @@ vim.keymap.set('v', '<leader>y', '"+y')
 vim.keymap.set('n', '<leader>Y', '"+Y')
 
 vim.keymap.set('n', '<C-S-v>', '<S-v>$')
+
